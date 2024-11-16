@@ -22,12 +22,16 @@ I am passionate about crafting efficient solutions and building meaningful appli
 ### Database  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/451d995a-27c1-477e-958a-6fa700951bf5" alt="Banner Image" width="300" />
+  <div style="margin-left: 20px;">
+
 
 
 🌟 "The best way to predict the future is to create it."
 💡 Let’s collaborate and build something amazing!
 
-<img src="https://github.com/user-attachments/assets/451d995a-27c1-477e-958a-6fa700951bf5" alt="Banner Image" width="600" />
+
 
 
 
