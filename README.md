@@ -9,7 +9,7 @@ I am passionate about crafting efficient solutions and building meaningful appli
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/451d995a-27c1-477e-958a-6fa700951bf5" alt="Banner Image" width="400" />
+  <img src="https://github.com/user-attachments/assets/451d995a-27c1-477e-958a-6fa700951bf5" alt="Banner Image" width="500" />
 </p>
 
 ---
