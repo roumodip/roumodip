@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 👨‍💻 Full-Stack Developer | 💡 Tech Enthusiast | 🌐 Web3 Explorer | Backend Developer
+
 I am passionate about crafting efficient solutions and building meaningful applications that make a difference. My journey spans across Web Development, Blockchain, and AI/ML, constantly exploring the latest technologies to enhance my skills.
 
 💻 Tech Stack
